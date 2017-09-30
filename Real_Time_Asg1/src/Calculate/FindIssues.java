@@ -7,7 +7,7 @@ public class FindIssues {
 
     static GetFileFolder folder;
     static CountingIssue countingIssue = new CountingIssue();
-    static final String Path= "C:\\Users\\Mar Jr\\Documents\\NetBeansProjects\\File";
+    static final String Path= "C:\\Users\\Mar Jr\\Documents\\NetBeansProjects\\Real_Time_Asg1\\File";
 
     public static void main(String[] args) {
 
